@@ -1,0 +1,6 @@
+goos: darwin
+goarch: amd64
+pkg: JSV8
+BenchmarkSendingAndReceiving100000-8   	   50000	     34130 ns/op
+PASS
+ok  	JSV8	2.261s
